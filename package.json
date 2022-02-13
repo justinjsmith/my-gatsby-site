@@ -26,6 +26,6 @@
     "netlify-cms-app": "^2.15.6",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "theme-ui": "^0.8.4"
+    "theme-ui": "^0.13.1"
   }
 }
